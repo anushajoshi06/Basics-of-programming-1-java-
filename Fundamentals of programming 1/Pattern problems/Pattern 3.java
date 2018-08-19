@@ -13,9 +13,6 @@ public class Solution {
 
 	public static void main(String[] args) {
 		
-		/* Your class should be named Solution.
-	 	* Read input as specified in the question.
-		*/
 		 int i, space, rows, k=0;
         Scanner s = new Scanner(System.in);
       //  System.out.print("Enter Number of Rows : ");
